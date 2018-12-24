@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799909753240",
+    "firebase_url": "https://whatsapp-ccf81.firebaseio.com",
+    "project_id": "whatsapp-ccf81",
+    "storage_bucket": "whatsapp-ccf81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799909753240:android:ac2905e8e9d4471b",
+        "android_client_info": {
+          "package_name": "beloded.alexey.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799909753240-g0ic9ti8973ehkefm5ad7dd90sahngro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beloded.alexey.com.whatsapp",
+            "certificate_hash": "cf191d0247d72f4513d5454dd7f2ca9b640515ce"
+          }
+        },
+        {
+          "client_id": "799909753240-11e86qofkjf0ql62d06ieak1u4sc9viv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8yqqfet6BoD1iJf22iA4KZjswUgAkVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799909753240-11e86qofkjf0ql62d06ieak1u4sc9viv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
